@@ -1,0 +1,27 @@
+    /* Estilos CSS */
+    body {
+        font-family: 'Times New Roman',sans-serif;
+      }
+  
+      h1 {
+        color: #08003a;
+      }
+      h2 {
+        color: #08003a;
+      }
+      h3 {
+        color: #08003a;
+      }
+  
+      h4 {
+        color: #08003a;
+      }
+  
+      p {
+        color: #666;
+      }
+  
+      ul {
+        list-style-type: disc;
+        color: #550000;
+      }
